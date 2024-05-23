@@ -1,0 +1,31 @@
+{
+  "name": "sandbox-wm-update",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnectedSensorsPedroDrago/sandbox-wm-update.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnectedSensorsPedroDrago/sandbox-wm-update/issues"
+  },
+  "homepage": "https://github.com/ConnectedSensorsPedroDrago/sandbox-wm-update#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "node-fetch": "^2.6.6",
+    "nodemon": "^2.0.22",
+    "pm2": "^5.3.0"
+  }
+}
